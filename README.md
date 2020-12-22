@@ -2,7 +2,7 @@
 
 This a sample program to simulate the cart summary calculations
 
-###Below is the available product catalog:
+### Below is the available product catalog:
 | #  | Product           | Price  |
 | ---|:-------------:| -----:|
 | 1  | T-shirt | Rs. 500 |
@@ -12,7 +12,7 @@ This a sample program to simulate the cart summary calculations
 
 The program handlse some special offers that affect pricing.
 
-###Below Available discounts:
+### Below Available discounts:
 1. Shoes are on 10% off.
 2. Buy 2 t-shirts and get 1 jacket at half its price.
 
@@ -21,7 +21,7 @@ The program handlse some special offers that affect pricing.
 ## How to Run?
 Download the GIT repo and open a terminal in the repo directory in your local machine. Run the below command:
 
-###pip install .
+### pip install .
 
 Once installed use the below command to get the cart summary:
 
